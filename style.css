@@ -1,0 +1,14 @@
+p{
+    color: blue;
+    background-color: yellow;
+    border: 1px solid black;
+    text-align: center;
+}
+.d{
+    color: red;
+    background-color:hsl(100, 94%, 66%);
+}
+#f{
+    border: 2px solid black;
+    font-size: 25px;
+}
