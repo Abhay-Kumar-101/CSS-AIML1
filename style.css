@@ -1,8 +1,8 @@
-p{
-    color: blue;
-    background-color: yellow;
-    border: 1px solid black;
-    text-align: center;
+ p{
+    color: rgb(255, 77, 0);
+    background-color: rgb(255, 255, 255);
+    
+    
 }
 .d{
     color: red;
@@ -13,7 +13,7 @@ p{
     font-size: 25px;
 }
 
-.container p{
+.container {
     width: 200px;
     height: 100px;
     background-color: lime;
@@ -24,11 +24,14 @@ p{
 }
 div{
     display: inline-block;
-    width: 200px;
-    height: 100px;
-    background-color: purple;
-    border: 2px solid black;
+    color: purple;
+    width: 1500px;
+    height: 150px;
+    background-color: rgb(255, 255, 255);
+    border: 5px solid black;
     margin: auto;
+
+
     
 }
 .box1{
