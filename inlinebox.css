@@ -1,0 +1,36 @@
+
+.a{
+    display: inline-block;
+    background-color: yellow;
+    height: 300px;
+    margin: 50px;
+    width: 200px;
+    text-align: center;
+}
+.b{
+    background-color: pink;
+    display: inline-block;
+    height: 300px;
+    margin: 50px;
+    width: 200px;
+    text-align: center;
+}
+.c{
+    background-color: aqua;
+    display: inline-block;
+    height: 300px;
+    margin: 50px;
+    width: 200px;
+    text-align: center;
+}
+.d{
+    border: solid black;
+    height: 400px;
+    width: 1000px;
+    text-align: center;
+    margin: 50px;
+}
+.f{
+    text-align: left;
+
+}

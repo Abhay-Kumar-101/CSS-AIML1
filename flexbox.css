@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    flex-direction: row;/*| row |row-reverse| column|cloumn-reverse */
+    /* padding: 20px; */
+    background-color: aqua;
+    height: 200px;
+    width: 300px;
+    border: 2px solid black;
+    flex-wrap:wrap-reverse;/*no-wrap| wrap-reverse*/
+
+}
+.item{
+    height: 100px;
+    width: 100px;
+    background-color: bisque;
+    border: 1px solid black;
+
+}
+
